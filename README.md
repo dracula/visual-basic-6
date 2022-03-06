@@ -16,11 +16,11 @@ All instructions can be found at [draculatheme.com/vb6](https://draculatheme.com
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/vb6/graphs/contributors).
 
 [![Jean Andreatta](https://avatars.githubusercontent.com/u/60496134?s=100)](https://github.com/jecsatta) |
 --- |
-[Jean Andreatta](https://github.com/jecsatta |
+[Jean Andreatta](https://github.com/jecsatta) |
 
 ## License
 
