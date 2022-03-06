@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### VB6
 
 #### Install using Git
 
@@ -12,6 +12,8 @@ Download using the [GitHub .zip download](https://github.com/dracula/foobar/arch
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+1. Close all intancies of VB6
+2. Execute the ColourChange.exe  with admin privileges. Credits to [Ba11istix/VB-VBA-Colour-Change](https://github.com/Ba11istix/VB-VBA-Colour-Change)
+3. Choose VB6 on combobox
+4. Load the Dracula.ini
+5. Click on Write

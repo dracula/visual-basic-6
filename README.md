@@ -1,12 +1,12 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for VB6
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for VB6
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/vb6](https://draculatheme.com/vb6).
 
 ## Community
 
@@ -18,9 +18,9 @@ All instructions can be found at [draculatheme.com/foobar](https://draculatheme.
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Jean Andreatta](https://avatars.githubusercontent.com/u/60496134?s=100)](https://github.com/jecsatta) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Jean Andreatta](https://github.com/jecsatta |
 
 ## License
 
