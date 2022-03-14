@@ -1,6 +1,6 @@
-# Dracula for Visual Basic 6
+# Dracula for [Visual Basic 6](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 
-> A dark theme for Visual Basic 6
+> A dark theme for [Visual Basic 6](https://docs.microsoft.com/en-us/dotnet/visual-basic/)
 
 ![Screenshot](./screenshot.png)
 
