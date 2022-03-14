@@ -1,12 +1,12 @@
-# Dracula for VB6
+# Dracula for Visual Basic 6
 
-> A dark theme for VB6
+> A dark theme for Visual Basic 6
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/vb6](https://draculatheme.com/vb6).
+All instructions can be found at [draculatheme.com/visual-basic-6](https://draculatheme.com/visual-basic-6).
 
 ## Community
 
@@ -16,7 +16,7 @@ All instructions can be found at [draculatheme.com/vb6](https://draculatheme.com
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/vb6/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/visual-basic-6/graphs/contributors).
 
 [![Jean Andreatta](https://avatars.githubusercontent.com/u/60496134?s=100)](https://github.com/jecsatta) |
 --- |
