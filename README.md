@@ -6,7 +6,7 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/visual-basic-6](https://draculatheme.com/visual-basic-6).
+All instructions can be found at [draculatheme.com/visual-basic](https://draculatheme.com/visual-basic).
 
 ## Community
 
