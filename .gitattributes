@@ -1,0 +1,4 @@
+* text eol=auto
+*.ini text eol=crlf
+*.exe.compat binary
+*.ocx.compat binary
